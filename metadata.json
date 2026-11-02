@@ -1,0 +1,6 @@
+{
+  "name": "SUMA+ ACADEMY",
+  "description": "Biblioteca móvil interactiva de lecciones, material didáctico multimedia y cuestionarios de evaluación en Psicología, Marketing, Inteligencia Artificial y más.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
